@@ -1,0 +1,42 @@
+.nav {
+  background-size: 100%;
+  background-image: url("/Users/minerhigh/DeskTop/GirlsCodingDayDemo/img/banner.jpg");
+  background-repeat: no-repeat;
+  height:200px;
+  color:white;
+
+
+}
+
+.nav span {
+  margin-left: 3%;
+
+}
+
+.nav a {
+  text-decoration: none;
+  color: white;
+}
+
+.abc{
+  background-color: black;
+  height:70px;
+  line-height: 70px;
+}
+.abc span{
+  font-family:sans-serif,monospace;
+  color:white;
+  margin-left:3%;
+}
+
+.a{
+margin-left: 20%;
+opacity: 0.8;
+width:1000px;
+
+
+
+
+
+
+}
