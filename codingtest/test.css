@@ -1,6 +1,6 @@
 .nav {
   background-size: 100%;
-  background-image: url("/Users/minerhigh/DeskTop/GirlsCodingDayDemo/img/banner.jpg");
+  background-image: url("./banner.jpg");
   background-repeat: no-repeat;
   height:200px;
   color:white;
